@@ -1,45 +1,23 @@
 
 {
-  "version": 6,
+  "version": 3,
   "guilds": {},
   "tickets": {},
-  "ticketCounters": {},
-  "ticketTranscripts": {},
   "feedbacks": {},
-  "aiHistory": {},
-  "publications": {},
-  "termsAcceptances": {},
   "warnings": {},
-  "securityLogs": {},
-  "statusRotation": {
+  "products": {},
+  "purchases": {},
+  "aiHistory": {},
+  "status": {
     "enabled": true,
-    "intervalSeconds": 15,
-    "currentIndex": 0,
+    "interval": 15000,
     "activities": [
-      {
-        "name": "ZYPhor • /config",
-        "type": 3
-      },
-      {
-        "name": "ZYPhor • Apps",
-        "type": 3
-      },
-      {
-        "name": "ZYPhor • Tickets",
-        "type": 3
-      },
-      {
-        "name": "ZYPhor • Inteligência Artificial",
-        "type": 3
-      },
-      {
-        "name": "ZYPhor • Sistemas",
-        "type": 3
-      },
-      {
-        "name": "ZYPhor • Ao Vivo",
-        "type": 3
-      }
+      "ZYPhor • /config",
+      "ZYPhor • Apps",
+      "ZYPhor • Tickets",
+      "ZYPhor • Inteligência Artificial",
+      "ZYPhor • Sistemas",
+      "ZYPhor • Ao Vivo"
     ]
   }
 }
