@@ -1,8 +1,8 @@
 
 {
   "name": "zyphor-bot",
-  "version": "2.0.0",
-  "description": "ZYPhor Bot - Discord management and AI assistant",
+  "version": "3.0.0",
+  "description": "ZYPhor Bot - Discord management, tickets, publications and AI",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
