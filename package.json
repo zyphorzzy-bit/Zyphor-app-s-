@@ -1,8 +1,8 @@
 
 {
   "name": "zyphor-bot",
-  "version": "4.0.0",
-  "description": "ZYPhor Bot - Tickets, moderacao, publicacoes e IA Groq",
+  "version": "4.1.0",
+  "description": "ZYPhor Bot - Tickets, administracao, moderacao e IA Groq",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
