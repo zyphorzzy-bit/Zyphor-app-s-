@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "discord.js": "^14.21.0",
-    "openai": "^5.0.0"
+    "groq-sdk": "^0.37.0"
   }
 }
