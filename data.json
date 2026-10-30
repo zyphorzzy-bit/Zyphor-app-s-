@@ -1,17 +1,13 @@
+
 {
   "version": 4,
   "guilds": {},
   "tickets": {},
   "ticketCounters": {},
   "feedbacks": {},
-  "warnings": {},
-  "products": {},
-  "purchases": {},
   "aiHistory": {},
   "publications": {},
   "termsAcceptances": {},
-  "moderationLogs": {},
   "ticketTranscripts": {},
-  "userSettings": {}
+  "warnings": {}
 }
-
