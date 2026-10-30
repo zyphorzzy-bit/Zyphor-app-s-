@@ -1,8 +1,8 @@
-
 {
-  "version": 3,
+  "version": 4,
   "guilds": {},
   "tickets": {},
+  "ticketCounters": {},
   "feedbacks": {},
   "warnings": {},
   "products": {},
@@ -10,5 +10,8 @@
   "aiHistory": {},
   "publications": {},
   "termsAcceptances": {},
-  "moderationLogs": {}
+  "moderationLogs": {},
+  "ticketTranscripts": {},
+  "userSettings": {}
 }
+
