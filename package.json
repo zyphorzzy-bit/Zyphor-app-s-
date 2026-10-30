@@ -1,8 +1,8 @@
 
 {
   "name": "zyphor-bot",
-  "version": "3.0.0",
-  "description": "ZYPhor Bot - Discord management, tickets, publications and AI",
+  "version": "4.0.0",
+  "description": "ZYPhor Bot - Tickets, moderacao, publicacoes e IA Groq",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "discord.js": "^14.22.1",
-    "openai": "^5.20.0"
+    "groq-sdk": "^0.30.0"
   }
 }
