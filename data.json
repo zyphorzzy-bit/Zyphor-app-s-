@@ -1,0 +1,90 @@
+{
+  "proprietarioId": "1533306874513068093",
+  "configuracoes": {
+    "cargoAdmin": null,
+    "cargoMod": null,
+    "cargoSuporte": null,
+    "canalLogs": null,
+    "canalFeedbacks": null,
+    "modulos": {
+      "tickets": {
+        "ativo": true,
+        "modo": "canal",
+        "categoria": null,
+        "canalDestino": null,
+        "titulo": "📩 Suporte — ZYPhor",
+        "descricao": "Selecione abaixo o motivo do seu atendimento!",
+        "banner": null,
+        "rodape": "Equipe ZYPhor • Atendimento rápido e seguro",
+        "categorias": [],
+        "umPorUsuario": true
+      },
+      "moderacao": {
+        "ativo": true
+      },
+      "seguranca": {
+        "ativo": true,
+        "antiFlood": { "ativo": true, "limite": 5, "tempo": 5000, "acao": "apagar", "isentos": [] },
+        "antiSpam": { "ativo": true, "limite": 3, "tempo": 30000, "acao": "advertir", "isentos": [] },
+        "antiLink": { "ativo": true, "permitidos": [], "acao": "apagar", "isentos": [] },
+        "antiRaid": { "ativo": true, "limiteEntradas": 10, "tempoJanela": 10000, "acao": "bloquear", "isentos": [] },
+        "antiMention": { "ativo": true, "limite": 8, "acao": "advertir", "isentos": [] },
+        "antiPhishing": { "ativo": true, "acao": "apagar_e_advertir", "isentos": [] }
+      },
+      "honeypot": {
+        "ativo": false,
+        "canal": null,
+        "aviso": "⚠️ **ATENÇÃO:** Este canal é apenas um sistema de segurança! Não envie nenhuma mensagem aqui, ou será punido automaticamente.",
+        "acao": "timeout",
+        "tempoTimeout": 604800000,
+        "isentos": []
+      },
+      "ia": {
+        "ativo": false,
+        "modo": "manual",
+        "responderTickets": true,
+        "responderCanais": [],
+        "resumirTickets": true,
+        "analisarMensagens": true
+      },
+      "boasVindas": {
+        "ativo": false,
+        "canal": null,
+        "titulo": "👋 Bem-vindo, {user}!",
+        "descricao": "Seja muito bem-vindo(a) ao **{server}**! Leia as regras e aproveite sua estadia.",
+        "imagem": null,
+        "rodape": "Membro nº {memberCount}"
+      },
+      "saida": {
+        "ativo": false,
+        "canal": null,
+        "titulo": "👋 Até mais!",
+        "descricao": "{username} saiu do servidor... Sentiremos sua falta!",
+        "imagem": null
+      },
+      "regras": {
+        "ativo": false,
+        "canal": null,
+        "titulo": "📜 Regras do Servidor",
+        "conteudo": "1. Respeite todos os membros\n2. Sem SPAM ou flood\n3. Sem links externos\n4. Sem linguagem ofensiva\n5. Sem divulgação sem permissão",
+        "imagem": null
+      },
+      "anuncios": {
+        "lista": []
+      },
+      "loja": {
+        "produtos": []
+      },
+      "feedbacks": {
+        "ativo": true,
+        "canal": null,
+        "historico": []
+      }
+    }
+  },
+  "ticketsAbertos": {},
+  "usuariosComTicket": {},
+  "historicoMod": [],
+  "compras": [],
+  "feedbacks": []
+}
