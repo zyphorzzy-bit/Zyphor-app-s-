@@ -1,17 +1,17 @@
 
 {
   "name": "zyphor-bot",
-  "version": "5.0.0",
-  "description": "ZYPhor Bot - Sistema completo de Discord",
+  "version": "1.1.0",
+  "description": "ZYPhor Bot - Discord",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=20.11.0"
+    "node": ">=20.0.0"
   },
   "dependencies": {
-    "discord.js": "^14.22.1",
-    "groq-sdk": "^0.30.0"
+    "discord.js": "^14.21.0",
+    "openai": "^5.0.0"
   }
 }
