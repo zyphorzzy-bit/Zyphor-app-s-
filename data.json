@@ -1,15 +1,16 @@
 
 {
-  "version": 5,
+  "version": 6,
   "guilds": {},
   "tickets": {},
   "ticketCounters": {},
+  "ticketTranscripts": {},
   "feedbacks": {},
   "aiHistory": {},
   "publications": {},
   "termsAcceptances": {},
-  "ticketTranscripts": {},
   "warnings": {},
+  "securityLogs": {},
   "statusRotation": {
     "enabled": true,
     "intervalSeconds": 15,
