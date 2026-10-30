@@ -1,16 +1,11 @@
 
 {
+  "version": 2,
   "guilds": {},
   "tickets": {},
   "feedbacks": {},
+  "warnings": {},
   "products": {},
   "purchases": {},
-  "warnings": {},
-  "moderation": {},
-  "security": {},
-  "honeypot": {},
-  "announcements": {},
-  "logs": {},
-  "users": {},
-  "version": 1
+  "aiHistory": {}
 }
