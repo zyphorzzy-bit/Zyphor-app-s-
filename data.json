@@ -1,6 +1,6 @@
 
 {
-  "version": 4,
+  "version": 5,
   "guilds": {},
   "tickets": {},
   "ticketCounters": {},
@@ -9,5 +9,36 @@
   "publications": {},
   "termsAcceptances": {},
   "ticketTranscripts": {},
-  "warnings": {}
+  "warnings": {},
+  "statusRotation": {
+    "enabled": true,
+    "intervalSeconds": 15,
+    "currentIndex": 0,
+    "activities": [
+      {
+        "name": "ZYPhor • /config",
+        "type": 3
+      },
+      {
+        "name": "ZYPhor • Apps",
+        "type": 3
+      },
+      {
+        "name": "ZYPhor • Tickets",
+        "type": 3
+      },
+      {
+        "name": "ZYPhor • Inteligência Artificial",
+        "type": 3
+      },
+      {
+        "name": "ZYPhor • Sistemas",
+        "type": 3
+      },
+      {
+        "name": "ZYPhor • Ao Vivo",
+        "type": 3
+      }
+    ]
+  }
 }
